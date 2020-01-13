@@ -1,6 +1,6 @@
 ## Overview
 
-Use of Pandas library to analyze gaming purchase data.
+Use of Pandas library to analyze purchase data of an independent online gaming company.
 
 ## Languages
 

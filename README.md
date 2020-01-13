@@ -18,4 +18,8 @@ Python on a Jupyter notebook, with the use of Pandas Library, to create datafram
 
 * Observable trends were included in the Jupyter notebook as markdown cells.
 
+## Screenshots of Jupyter File
 
+![Gender](Screenshots/Gender.png)
+![Age](Screenshots/Age.png)
+![Trends](Screenshots/Trends.png)
